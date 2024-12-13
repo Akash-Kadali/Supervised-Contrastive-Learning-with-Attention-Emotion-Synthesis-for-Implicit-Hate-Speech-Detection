@@ -1,6 +1,6 @@
 # Supervised-Contrastive-Learning-with-Attention-Emotion-Synthesis-for-Implicit-Hate-Speech-Detection
 
-This repository contains the implementation and resources for the research paper titled *"Leveraging Supervised Contrastive Learning with Attention Mechanisms and Emotion Synthesis for Detecting Implicit Hate Speech"* by *Sri Akash Kadali* and *Harshith Chejerla*.
+This repository contains the implementation and resources for the research paper titled *"Leveraging Supervised Contrastive Learning with Attention Mechanisms and Emotion Synthesis for Detecting Implicit Hate Speech"* by *Sri Akash Kadali*.
 
 ## 📜 Abstract
 
